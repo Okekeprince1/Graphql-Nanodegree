@@ -1,4 +1,6 @@
 # Graphql-Nanodegree
 Graphql-Nanodegree-Program
-#To start server 
-yarn dev in your command line
+
+<b>To start server</b>
+<br/>
+<b>yarn dev</b>
