@@ -19,7 +19,7 @@
     "graphql-tag": "^2.10.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.16",
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
